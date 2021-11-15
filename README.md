@@ -14,9 +14,9 @@ Se utilizan todos los campos aprendidos en clase:
     - booleanos
     - fechas
     - Arrays
-	-De fechas
-	-De documentos con enteros
-	-De cadenas
+	- De fechas
+	- De documentos con enteros
+	- De cadenas
 
 Se utilizan todos los operadores aprendidos en clase:
 
@@ -36,7 +36,7 @@ Se utilizan todos los operadores aprendidos en clase:
     - $all
 
 Aportes personales:
-    - .? en regex
+    .? en regex
     - update
     - aggregate
         - $substract
